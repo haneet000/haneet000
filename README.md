@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **devidhoney6@gmail.com**
 
-- 📄 Experience [1 year](1 year)
+- 📄 Experience : 1 year
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
