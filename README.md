@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/haneet000/haneet000/github-banner.png)]
+[![MasterHead](https://github.com/haneet000/haneet000/raw/github-banner.png)]
 <h1 align="center">Hi 👋, I'm Haneet</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
