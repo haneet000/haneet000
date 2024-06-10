@@ -1,4 +1,3 @@
-[![MasterHead]("C:/Users/devid/Desktop/GitHub Profile Banner Image.png")]
 <h1 align="center">Hi 👋, I'm Haneet</h1>
 <h3 align="center">A passionate Data Scientist</h3>
 
